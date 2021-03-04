@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: 00a5a9b19a50f394f88b4437732526ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <IdleMotion>k__BackingField: {fileID: 7400000, guid: 71dbb8b1993a1fb47884432721cc6d5b, type: 2}
+  - <WalkMotion>k__BackingField: {fileID: 7400000, guid: 9b779767c652d2e488442e7ab16f6830, type: 2}
+  - <RunMotion>k__BackingField: {fileID: 7400000, guid: f880773f639557346a4227b292f4a96c, type: 2}
+  - <RunTurnMotion>k__BackingField: {fileID: 7400000, guid: a5937dc098bdd4741be3ab36f017fef3, type: 2}
+  - <SimpleAttackMotion>k__BackingField: {fileID: 7400000, guid: fb1e1b3e18dd8bd4eb0bcb0b4174f7b0, type: 2}
+  - <SimpleAttackTopMotion>k__BackingField: {fileID: 7400000, guid: 8ef1cf951229bdb49b450b2515ca6a14, type: 2}
+  - <SimpleAttackFrontMotion>k__BackingField: {fileID: 7400000, guid: 22dff4e9bc3fe024da93803b3a77df5f, type: 2}
+  - <SimpleAttackBottomMotion>k__BackingField: {fileID: 7400000, guid: c8173938ec9b9954baa783d1bc78fb28, type: 2}
+  - <SimpleHeavyAttackTopMotion>k__BackingField: {fileID: 7400000, guid: 6c5dd70aef71e8541b50738f0c8e83a8, type: 2}
+  - <SimpleHeavyAttackFrontMotion>k__BackingField: {fileID: 7400000, guid: 3c102b97f3ba9114d972f8267617d502, type: 2}
+  - <SimpleHeavyAttackBottomMotion>k__BackingField: {fileID: 7400000, guid: bc834d0689db4234591e6e3cd873ddf8, type: 2}
+  - <SpecialAttackMotion>k__BackingField: {instanceID: 0}
+  - <SpecialAttackTopMotion>k__BackingField: {instanceID: 0}
+  - <SpecialAttackFrontMotion>k__BackingField: {instanceID: 0}
+  - <SpecialAttackBottomMotion>k__BackingField: {instanceID: 0}
+  - <SpecialHeavyAttackTopMotion>k__BackingField: {instanceID: 0}
+  - <SpecialHeavyAttackFrontMotion>k__BackingField: {instanceID: 0}
+  - <SpecialHeavyAttackBottomMotion>k__BackingField: {instanceID: 0}
+  - <JumpMotion>k__BackingField: {fileID: 7400000, guid: 97822546e98efb54db9ec9858e5c3ae7, type: 2}
+  - <JumpEndMotion>k__BackingField: {fileID: 7400000, guid: 75adb4209d590704c9336ea30fd2641a, type: 2}
+  - <DoubleJumpMotion>k__BackingField: {fileID: 7400000, guid: 23b871b9eebb3154b8f22aceaa6d2c82, type: 2}
+  - <AirAttackMotion>k__BackingField: {fileID: 7400000, guid: 96c7439f620bb094484c8a23d1f18cfc, type: 2}
+  - <AirAttackTopMotion>k__BackingField: {fileID: 7400000, guid: 021a6df3b3fed78498d53216552b84ef, type: 2}
+  - <AirAttackFrontMotion>k__BackingField: {fileID: 7400000, guid: a64d67840eff2df4c885788700e01f35, type: 2}
+  - <AirAttackBottomMotion>k__BackingField: {fileID: 7400000, guid: 8f99f15211b886b4d8954efbbe712316, type: 2}
+  - <HitMotion>k__BackingField: {fileID: 7400000, guid: 24ab7c78204a87a4ea731ee48c88a9ac, type: 2}
+  - <HurtFallingMotion>k__BackingField: {fileID: 7400000, guid: 6efb7ed40b5a7a84991a3605372f2411, type: 2}
+  - <HurtMotion>k__BackingField: {fileID: 7400000, guid: 51df5d1c041e7484a84202a8bd6b8e18, type: 2}
+  - <GetUpMotion>k__BackingField: {fileID: 7400000, guid: 887063495cc958d41b3ca87416e0def8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

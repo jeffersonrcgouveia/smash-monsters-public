@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 86f565256acbd374e984c702a1767f36
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <IdleMotion>k__BackingField: {instanceID: 0}
+  - <WalkMotion>k__BackingField: {instanceID: 0}
+  - <RunMotion>k__BackingField: {instanceID: 0}
+  - <SimpleAttackMotion>k__BackingField: {instanceID: 0}
+  - <SimpleAttackTopMotion>k__BackingField: {instanceID: 0}
+  - <SimpleAttackFrontMotion>k__BackingField: {instanceID: 0}
+  - <SimpleAttackBottomMotion>k__BackingField: {instanceID: 0}
+  - <SimpleHeavyAttackTopMotion>k__BackingField: {instanceID: 0}
+  - <SimpleHeavyAttackFrontMotion>k__BackingField: {instanceID: 0}
+  - <SimpleHeavyAttackBottomMotion>k__BackingField: {instanceID: 0}
+  - <SpecialAttackMotion>k__BackingField: {instanceID: 0}
+  - <SpecialAttackTopMotion>k__BackingField: {instanceID: 0}
+  - <SpecialAttackFrontMotion>k__BackingField: {instanceID: 0}
+  - <SpecialAttackBottomMotion>k__BackingField: {instanceID: 0}
+  - <SpecialHeavyAttackTopMotion>k__BackingField: {instanceID: 0}
+  - <SpecialHeavyAttackFrontMotion>k__BackingField: {instanceID: 0}
+  - <SpecialHeavyAttackBottomMotion>k__BackingField: {instanceID: 0}
+  - <JumpMotion>k__BackingField: {instanceID: 0}
+  - <JumpEndMotion>k__BackingField: {instanceID: 0}
+  - <DoubleJumpMotion>k__BackingField: {instanceID: 0}
+  - <AirAttackMotion>k__BackingField: {instanceID: 0}
+  - <AirAttackTopMotion>k__BackingField: {instanceID: 0}
+  - <AirAttackFrontMotion>k__BackingField: {instanceID: 0}
+  - <AirAttackBottomMotion>k__BackingField: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
